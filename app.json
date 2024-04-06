@@ -1,7 +1,7 @@
 {
-  "name": "Animal-CopyrightBot",
+  "name": "Music-Copyright-bot",
   "description": "Telegram Bot using Pyrogram",
-  "logo": "https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
+  "logo": "https://te.legra.ph/file/019eed5ead853a440b6ea.jpg",
   "repository": "https://github.com/Githubsoniaryan2/AnimalCopyRightBot",
   "env": {
     "API_ID": {
