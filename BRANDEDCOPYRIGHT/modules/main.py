@@ -21,9 +21,9 @@ from pyrogram.errors import FloodWait
 # -------------------------------------------------------------------------------------
 
 
-start_txt = """<b> 😈 𝐀𝐧𝐢𝐦𝐚𝐥 𝐂𝐨𝐩𝐲𝐑𝐢𝐠𝐡𝐭 𝐑𝐞𝐦𝐨𝐯𝐞𝐫 ❤️ </b>
+start_txt = """<b> 💙 𝐆𝐫𝐨𝐮𝐩 𝐂𝐨𝐩𝐲𝐑𝐢𝐠𝐡𝐭 𝐑𝐞𝐦𝐨𝐯𝐞𝐫 💙 </b>
 
-ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀɴɪᴍᴀʟ sᴇᴄᴜʀɪᴛʏ ʀᴏʙᴏᴛ, ʏᴏᴜʀ ᴠɪɢɪʟᴀɴᴛ ɢᴜᴀʀᴇɪɴ ɪɴ ᴛʜɪs ᴛᴇʟᴇɢʀᴀᴍ sᴘᴀᴄᴇ! ᴏᴜʀ ᴍɪssɪᴏɴ ɪs ᴛᴏ ᴇɴsᴜʀᴇ ᴀ sᴇᴄᴜʀᴇ ᴀɴᴅ ᴘʟᴇᴀsᴀɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ. ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛ𝂢ɪᴏɴ ᴛᴏ ᴍᴀɪɴᴛᴀɪɴɪɴɢ ᴅᴇᴄᴏʀᴜᴍ, ᴡᴇ'ᴠᴇ ɢᴏᴛ ɪᴛ ᴄᴏᴠᴇʀᴇᴅ.
+ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ɢʀᴏᴜᴘ sᴇᴄᴜʀɪᴛʏ ʀᴏʙᴏᴛ, ʏᴏᴜʀ ᴠɪɢɪʟᴀɴᴛ ɢᴜᴀʀᴇɪɴ ɪɴ ᴛʜɪs ᴛᴇʟᴇɢʀᴀᴍ sᴘᴀᴄᴇ! ᴏᴜʀ ᴍɪssɪᴏɴ ɪs ᴛᴏ ᴇɴsᴜʀᴇ ᴀ sᴇᴄᴜʀᴇ ᴀɴᴅ ᴘʟᴇᴀsᴀɴᴛ ᴇɴᴠɪʀᴏɴᴍᴇɴᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ. ғʀᴏᴍ ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛ𝂢ɪᴏɴ ᴛᴏ ᴍᴀɪɴᴛᴀɪɴɪɴɢ ᴅᴇᴄᴏʀᴜᴍ, ᴡᴇ'ᴠᴇ ɢᴏᴛ ɪᴛ ᴄᴏᴠᴇʀᴇᴅ.
 
 ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ʀᴇᴘᴏʀᴛ ᴀɴʏ ᴄᴏɴᴄᴇʀɴs, ᴀɴᴅ ʟᴇᴛ's ᴡᴏʀᴋ ᴛᴏɢᴇᴛʜᴇʀ ᴛᴏ ᴍᴀᴋᴇ ᴛʜɪs ᴄᴏᴍᴍᴜɴɪᴛʏ ᴛʜʀɪᴠᴇ! 🤝🔐 """
 
@@ -40,7 +40,7 @@ async def start(_, msg):
     reply_markup = InlineKeyboardMarkup(buttons)
     
     await msg.reply_photo(
-        photo="https://te.legra.ph/file/ec19cf227791a167abedc.jpg",
+        photo="https://te.legra.ph/file/1e3f0095485249e6cbecf.jpg",
         caption=start_txt,
         reply_markup=reply_markup
     )
@@ -49,7 +49,7 @@ async def start(_, msg):
 gd_buttons = [              
         [
             InlineKeyboardButton("ᴏᴡɴᴇʀ", user_id=OWNER_ID),
-            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/itsRareBeautySelenaGomez"),    
+            InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/+BX_LwS90SUdkYmE1"),    
         ]
         ]
 
